@@ -1,4 +1,9 @@
-### Hi there 👋
+<img align="right" src="https://img.shields.io/badge/WaXxX@GitHub-BTY-BF5B16?style=plastic&logo=Bitcoin">
+<img align="left" src="https://ripgvc.herokuapp.com/?username=waxxx333&color=ff6c1f&round"><br>
+
+```python
+Hi
+```
 
 <!--
 **Waxxx333/Waxxx333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
